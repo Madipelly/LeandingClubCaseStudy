@@ -49,7 +49,6 @@ Data analysis of this case study categriesed in following steps-
 * Juipter 
 * NumPy
 * Metplotlib 
-* missingno
 * seaborn etc.
 
 
