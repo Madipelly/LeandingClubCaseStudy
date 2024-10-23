@@ -86,8 +86,4 @@ Data analysis of this case study categriesed in following steps-
 ## Contact
 Created by [@https://github.com/Madipelly] - +91-9618188869
   
-   
-**Note:-**
-* Data used for this project persent in data folder.
-* PPT as a pdf
-* python programming file is persent in Python folder 
+    
