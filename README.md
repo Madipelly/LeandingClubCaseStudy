@@ -89,5 +89,5 @@ Created by [@https://github.com/Madipelly] - +91-9618188869
    
 **Note:-**
 * Data used for this project persent in data folder.
-* PPT as a pdf is also persent in Data folder.
+* PPT as a pdf
 * python programming file is persent in Python folder 
